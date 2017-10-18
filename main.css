@@ -1,0 +1,60 @@
+.mi-triptico{
+  height: 800px;
+  width: 800px;
+}
+
+
+.titulo{
+  height: 50px;
+  width: 765px;
+  background: YELLOW;
+  text-align: center;
+  border: 2px solid black;
+  position: absolute;
+  font-size: larger;
+
+}
+
+
+.bloque1{
+  height: 500px;
+  width: 213px;
+  border: 2px solid black;
+  position: absolute;
+  left:9px;
+  top:60px;
+  padding: 20px;
+}
+
+
+.bloque2{
+  height: 500px;
+  width: 213px;
+  border: 2px solid black;
+  position: absolute;
+  left:263px;
+  top:60px;
+  padding: 20px;
+
+}
+
+.bloque3{
+  height: 500px;
+  width: 213px;
+  border: 2px solid black;
+  position: absolute;
+  left: 520px;
+  top: 60px;
+  padding: 20px;
+}
+
+.info{
+  height: 50px;
+  width: 765px;
+  background: yellow;
+  text-align: center;
+  border: 2px solid black;
+  position: absolute;
+  font-size: larger;
+  top: 600px;
+}
